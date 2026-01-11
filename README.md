@@ -16,12 +16,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
 </div>
 </div>
-<hr>
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=w7d6wfvrqa226pvot4gfzb5rl&count=1" alt="Última canción escuchada en Spotify">
-  <div>
-    <hr>
-<div align="left">
+
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Eliandoski.Eliandoski&left_color=black&right_color=gray&left_text=Profile%20Views"  />
 
 
