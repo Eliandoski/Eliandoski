@@ -6,9 +6,6 @@
   <img height="300" width="1000" src="https://64.media.tumblr.com/5d37ab2aa782462c7aa092f7bd0d27cb/2f374d07287b003b-f4/s1280x1920/fe094893d79e09d668e1705e8b9144964f38ce75.gifv" />
 </div>
 <br>
-<div align="center"">
-<a href="https://fontmeme.com/pixel-fonts/"><img src="https://fontmeme.com/permalink/240615/57c6ea10d87089be7ff8bf112cec84fc.png" alt="pixel-fonts" border="0"></a>
-  </div><br>
 <div align="center">
 <div align="center">
 </div>
